@@ -26,7 +26,7 @@ This data is from the time period of 2000 to 2015.
  ## Business Understanding
 ### Current Situation 
 XYZ 
-### What can we do?
+### 
 XYZ
 ### How are we doing it?
 XYZ
@@ -35,13 +35,13 @@ XYZ
 XYZ
 
 
-### Who should be cast?
+### XYZ
 XYZ
 
-### Who should put it together?
+### XYZ
 XYZ
 
-### What is the overarching theme?
+### XYZ
 XYZ
 
 
