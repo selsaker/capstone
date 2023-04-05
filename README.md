@@ -21,15 +21,14 @@ This data is from the time period of 2000 to 2015.
  - Numpy
  - Seaborn
  - Scipy.Stats
- - 
+ - SKlearn
  
  ## Business Understanding
 ### Current Situation 
-XYZ 
-### 
-XYZ
+Currently, the world has a large population of individuals in developing countries. This study is meant to explore where funding should be put to improve the longutivity and quality of life for this population.
+
 ### How are we doing it?
-XYZ
+We will be reviewing
 
 ## Data Understanding Analysis 
 XYZ
