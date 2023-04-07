@@ -1,9 +1,11 @@
 ## Capstone 
 
 ## Overview
-Dataset from GHO was utilized to extract the correlation between our target variable life expectancy and dependant variables 'Schooling' and 'Alcohol.'
+- Dataset from GHO was utilized to extract the correlation between our target variable life expectancy and dependant variables 'Schooling' and 'Alcohol.'
 
-We are trying to predict the target life expectancy through these two dependant variables.
+- We are trying to predict the target life expectancy through these two dependant variables through regressions and modeling. 
+
+Navigating this repository:  This README file gives a high level of what is to be expected in the analysis and where to find all the deliverables. These deliverables include the final code, final powerpoint, and the initial proposal idea document. Below has the links of the official documents. 
 
 - Link to PPT: https://github.com/selsaker/capstone/blob/main/Develop_Countries_Final_Presentation.pptx
 
