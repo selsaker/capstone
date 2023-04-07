@@ -6,6 +6,7 @@ Dataset from GHO was utilized to extract the correlation between our target vari
 We are trying to predict the target life expectancy through these two dependant variables.
 
 -Link to PPT: https://github.com/selsaker/capstone/blob/main/Develop_Countries_Final_Presentation.pptx
+
 -Link to Code: https://github.com/selsaker/capstone/blob/main/develop_countries_code.ipynb
 
 ## About this Dataset
