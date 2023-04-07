@@ -28,20 +28,9 @@ This data is from the time period of 2000 to 2015.
 Currently, the world has a large population of individuals in developing countries. This study is meant to explore where funding should be put to improve the longutivity and quality of life for this population.
 
 ### How are we doing it?
-We will be reviewing
+We will be reviewing life expectancy as our numerical way of measuring health quality and longevity. The other data columns will be the independant factors. The two factors we will be focusing on are Schooling and Alcoholism. This was chosen because we wanted to have 1 external independant variable and 1 internal independant variable. External meaning outside the body and internal as in inside the body. 
 
 ## Data Understanding Analysis 
-XYZ
-
-
-### XYZ
-XYZ
-
-### XYZ
-XYZ
-
-### XYZ
-XYZ
 
 
 ## Statistical Communication 
