@@ -33,11 +33,16 @@ Currently, the world has a large population of individuals in developing countri
 ### How are we doing it?
 We will be reviewing life expectancy as our numerical way of measuring health quality and longevity. The other data columns will be the independant factors. The two factors we will be focusing on are Schooling and Alcoholism. This was chosen because we wanted to have 1 external independant variable and 1 internal independant variable. External meaning outside the body and internal as in inside the body. 
 
+The 3D analysis includes life expectancy vs schooling and alcoholism
+The 2D analysis includes life expectancy vs schooling
+
 ## Data Understanding Analysis 
 This analysis has a 2D and 3D Portion.
 
-In the 2D portion, we look at the MSE and other results of the test and train of our regression. This regression was between life expectancy vs. schooling and alcoholism.
 In the 3D portion, we look at the R Squared value, skew, and other results of our regression. This regression was between life expectancy vs. schooling. We use visualizations such as histograms, Q-Q plot to better understand the results of the analysis as well. 
+
+In the 2D portion, we look at the MSE and other results of the test and train of our regression. This regression was between life expectancy vs. schooling and alcoholism.
+
 
 
 ## Statistical Communication 
